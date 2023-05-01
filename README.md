@@ -22,7 +22,7 @@ Worked 2022 - 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.mumo
 
 
-Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game. Game is created using the Unity Engine. Worked on the project for its whole development cycle, so I was involved in creating pretty much everything in the game and a lot of tech that would be used in the future projects. My focus on the project was on the programming side and my responsibility was to realize the games vision as best I can. The game was No Roof Game's first game release.
+Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game. The game was created using the Unity Engine. I Worked on the project for its whole development cycle, so I was involved in creating pretty much everything in the game and a lot of tech that would be used in the future projects. My focus on the project was on the programming side and my responsibility was to realize the game's vision as best I can. The game was No Roof Game's first game release.
 
 ![slime](https://user-images.githubusercontent.com/4212615/235475625-dce0eda3-1ea7-49df-a162-5edaa23f2322.png)
 ![slime2](https://user-images.githubusercontent.com/4212615/235482481-8a1d38c3-9ca0-4470-ad2f-2158509168bf.png)
@@ -33,7 +33,7 @@ Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game
 Worked 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.Iconle
 
-Icon Puzzle is a casual puzzle mobile game where player tries to uncover the secret combination. I programmed the game in one and a half week while waiting the release of Slime Bubbler. Game's idea was to be a tech demo for puzzle side, which in case of prosimising nubmers could be expanded into bigger game using different metagame features (like gardening game).
+Icon Puzzle is a casual puzzle mobile game where the player tries to uncover the secret combination. I programmed the game in one and a half weeks while waiting for the release of Slime Bubbler. Game's idea was to be a tech demo for the puzzle side, which in case of promising numbers could be expanded into a bigger game using different metagame features (like a gardening game).
 
 ![iconle](https://user-images.githubusercontent.com/4212615/235475622-5edf2933-020e-42cf-af35-2d3fdda7f5bb.png)
 
