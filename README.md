@@ -8,11 +8,10 @@ App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++) but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
 - Designing and implementing over 250 single player levels and I played a major role in reworking the single player experience, resulting in improved gameplay and visual enhancements.
-- I created over 100 multiplayer maps, was involved in creating new multiplayer game modes like king of the hill and duels and worked on new multiplayer weapons, implementing them on both the client and server side. Additionally, I was the main responsible for designing and implementing multiplayer balance updates.
+- I created over 100 multiplayer maps, was involved in creating new multiplayer game modes like king of the hill and duels and worked on new multiplayer weapons, implementing them on both the client and server side. Additionally, I was responsible for designing and implementing multiplayer balance updates.
 - Worked on creating in-game event system and was responsible for expanding it over the years. Worked on over 160 in game events.
 - Back in 2019, I was one of the driving forces for adding and implementing seasonal structure to the game before it was a popular thing to add to mobile games, majorly enhancing player engagement, game revenue and retention.
 - Worked on countless new features including things like clans, in game fashion shows,  daily fortune wheels, single player dungeon runs, sending gifts, new special offers etc.
-- I was the main responsible for making changes to game's backend data (Microsoft Azure PlayFab).
 
 ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
