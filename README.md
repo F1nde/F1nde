@@ -3,7 +3,7 @@ Professional games that I have worked on:
 
 ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
-**Bomber Friends** \
+## **Bomber Friends** \
 2018 - 2022 \
 Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
 App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
@@ -18,7 +18,7 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 
 ![slime](https://user-images.githubusercontent.com/4212615/235475625-dce0eda3-1ea7-49df-a162-5edaa23f2322.png)
 
-**Slime Bubbler: Idle Adventures** \
+## **Slime Bubbler: Idle Adventures** \
 2022 - 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.mumo
 
@@ -26,7 +26,7 @@ Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game
 
 ![iconle](https://user-images.githubusercontent.com/4212615/235475622-5edf2933-020e-42cf-af35-2d3fdda7f5bb.png)
 
-**Icon Puzzle** \
+## **Icon Puzzle** \
 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.Iconle
 
@@ -36,16 +36,16 @@ Icon Puzzle is a casual puzzle mobile game where player tries to uncover the sec
 
 Gamejam projects. [X-ED OUT], Kantelemania and I, Love, Robot can be played on web browser!
 
-**[X-ED OUT]** \
+## **[X-ED OUT]** \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
 
-**Kantelemania** \
+## **Kantelemania** \
 https://globalgamejam.org/2023/games/kantelemania-8
 
-**Eggspiration Date**  \
+## **Eggspiration Date**  \
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
-**I, Love, Robot** \
+## **I, Love, Robot** \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
