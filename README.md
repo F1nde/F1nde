@@ -1,5 +1,16 @@
 
-Gamejam links below. Pinned projects are older projects.
+Professional games that I have worked on:
+
+Bomber Friends \
+https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends
+
+Slime Bubbler: Idle Adventures \
+https://play.google.com/store/apps/details?id=com.noroofgames.mumo
+
+Icon Puzzle \
+https://play.google.com/store/apps/details?id=com.noroofgames.Iconle
+
+Gamejam projects
 
 [X-ED OUT] (can be played in browser) \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
@@ -12,6 +23,8 @@ https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 I, Love, Robot (can be played in browser) \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
+
+Pinned reposities are some older projects.
 
 <!--
 **F1nde/F1nde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
