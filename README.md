@@ -27,18 +27,18 @@ Icon Puzzle is a casual puzzle mobile game where player tries to uncover the sec
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Gamejam projects:
+Gamejam projects. [X-ED OUT], Kantelemania and I, Love, Robot can be played on web browser!
 
-[X-ED OUT] (can be played in browser) \
+**[X-ED OUT]** \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
 
-Kantelemania (can be played in browser) \
+**Kantelemania** \
 https://globalgamejam.org/2023/games/kantelemania-8
 
-Eggspiration Date  \
+**Eggspiration Date**  \
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
-I, Love, Robot (can be played in browser) \
+**I, Love, Robot** \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
