@@ -1,8 +1,7 @@
 
 Professional games that I have worked on:
 
-## **Bomber Friends** \
-2018 - 2022 \
+### **Bomber Friends**
 Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
 App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
 
@@ -16,16 +15,14 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 
 ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
-## **Slime Bubbler: Idle Adventures** \
-2022 - 2023 \
+### **Slime Bubbler: Idle Adventures**
 https://play.google.com/store/apps/details?id=com.noroofgames.mumo
 
 Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game. Game is created using the Unity Engine. Worked on the project for its whole development cycle, so I was involved in creating pretty much everything in the game and a lot of tech that would be used in the future projects. My focus on the project was on the programming side and my responsibility was to realize the games vision as best I can. The game was No Roof Game's first game release.
 
 ![slime](https://user-images.githubusercontent.com/4212615/235475625-dce0eda3-1ea7-49df-a162-5edaa23f2322.png)
 
-## **Icon Puzzle** \
-2023 \
+### **Icon Puzzle**
 https://play.google.com/store/apps/details?id=com.noroofgames.Iconle
 
 Icon Puzzle is a casual puzzle mobile game where player tries to uncover the secret combination. I programmed the game in one and a half week while waiting the release of Slime Bubbler. Game's idea was to be a tech demo for puzzle side, which in case of prosimising nubmers could be expanded into bigger game using different metagame features (like gardening game).
@@ -36,16 +33,16 @@ Icon Puzzle is a casual puzzle mobile game where player tries to uncover the sec
 
 Gamejam projects. [X-ED OUT], Kantelemania and I, Love, Robot can be played on web browser!
 
-## **[X-ED OUT]** \
+### **[X-ED OUT]**
 https://ldjam.com/events/ludum-dare/51/x-ed-out
 
-## **Kantelemania** \
+### **Kantelemania**
 https://globalgamejam.org/2023/games/kantelemania-8
 
-## **Eggspiration Date**  \
+### **Eggspiration Date** 
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
-## **I, Love, Robot** \
+### **I, Love, Robot**
 https://ldjam.com/events/ludum-dare/41/i-love-robot
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
