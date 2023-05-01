@@ -1,5 +1,5 @@
 
-Professional games that I have worked on:
+# Professional Projects
 
 ### **Bomber Friends**
 Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
@@ -30,6 +30,8 @@ Icon Puzzle is a casual puzzle mobile game where player tries to uncover the sec
 ![iconle](https://user-images.githubusercontent.com/4212615/235475622-5edf2933-020e-42cf-af35-2d3fdda7f5bb.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Personal projects
 
 Gamejam projects. [X-ED OUT], Kantelemania and I, Love, Robot can be played on web browser!
 
