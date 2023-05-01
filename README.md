@@ -22,9 +22,11 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 Worked 2022 - 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.mumo
 
+
 Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game. Game is created using the Unity Engine. Worked on the project for its whole development cycle, so I was involved in creating pretty much everything in the game and a lot of tech that would be used in the future projects. My focus on the project was on the programming side and my responsibility was to realize the games vision as best I can. The game was No Roof Game's first game release.
 
 ![slime](https://user-images.githubusercontent.com/4212615/235475625-dce0eda3-1ea7-49df-a162-5edaa23f2322.png)
+![slime2](https://user-images.githubusercontent.com/4212615/235482481-8a1d38c3-9ca0-4470-ad2f-2158509168bf.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
