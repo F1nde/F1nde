@@ -14,7 +14,7 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 - Worked on countless new features including things like clans, in game fashion shows,  daily fortune wheels, single player dungeon runs, sending gifts, new special offers etc.
 - I was the main responsible for making changes to game's backend data (Microsoft Azure PlayFab).
 
-![bomber](https://user-images.githubusercontent.com/4212615/235474017-bf7e3998-01e2-4721-9564-4f7ff3f97fc6.png)
+![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
 **Slime Bubbler: Idle Adventures** \
 2022 - 2023 \
@@ -22,11 +22,15 @@ https://play.google.com/store/apps/details?id=com.noroofgames.mumo
 
 Slime Bubbler: Idle Adventures is a casual 3D auto shooter adventure mobile game. Game is created using the Unity Engine. Worked on the project for its whole development cycle, so I was involved in creating pretty much everything in the game and a lot of tech that would be used in the future projects. My focus on the project was on the programming side and my responsibility was to realize the games vision as best I can. The game was No Roof Game's first game release.
 
+![slime](https://user-images.githubusercontent.com/4212615/235475625-dce0eda3-1ea7-49df-a162-5edaa23f2322.png)
+
 **Icon Puzzle** \
 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.Iconle
 
 Icon Puzzle is a casual puzzle mobile game where player tries to uncover the secret combination. I programmed the game in one and a half week while waiting the release of Slime Bubbler. Game's idea was to be a tech demo for puzzle side, which in case of prosimising nubmers could be expanded into bigger game using different metagame features (like gardening game).
+
+![iconle](https://user-images.githubusercontent.com/4212615/235475622-5edf2933-020e-42cf-af35-2d3fdda7f5bb.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
