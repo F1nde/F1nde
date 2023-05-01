@@ -1,12 +1,8 @@
-A Finnish software developer who loves games and wants to use technologies to create experiences that stir up user’s emotions.
-
-Some gamejam projects links below.
+[X-ED OUT] (can be played in browser) \
+https://ldjam.com/events/ludum-dare/51/x-ed-out
 
 Kantelemania (can be played in browser) \
 https://globalgamejam.org/2023/games/kantelemania-8
-
-[X-ED OUT] (can be played in browser) \
-https://ldjam.com/events/ludum-dare/51/x-ed-out
 
 I, Love, Robot (can be played in browser) \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
