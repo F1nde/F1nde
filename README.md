@@ -1,9 +1,9 @@
 
 Professional games that I have worked on:
 
-![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png) ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
+![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
-**Bomber Friends** \
+**Bomber Friends**                                                                                                  ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png) \
 2018 - 2022 \
 Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
 App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
