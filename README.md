@@ -3,7 +3,7 @@ Professional games that I have worked on:
 
 **Bomber Friends** \
 2018 - 2022 \
-Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends
+Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
 App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++) but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
@@ -13,6 +13,8 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 - Back in 2019, I was one of the driving forces for adding and implementing seasonal structure to the game before it was a popular thing to add to mobile games, majorly enhancing player engagement, game revenue and retention.
 - Worked on countless new features including things like clans, in game fashion shows,  daily fortune wheels, single player dungeon runs, sending gifts, new special offers etc.
 - I was the main responsible for making changes to game's backend data (Microsoft Azure PlayFab).
+
+![alt text](http://url/to/img.png](https://play-lh.googleusercontent.com/Ld3UVdsryjuoK_FEhT0eroDFqno8pVLMxfeYdGEGDva88i3aJ5FlyPv71M5oVsM9Qkw=s48-rw)
 
 **Slime Bubbler: Idle Adventures** \
 2022 - 2023 \
