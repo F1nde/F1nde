@@ -14,6 +14,8 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 - Worked on countless new features including things like clans, in game fashion shows,  daily fortune wheels, single player dungeon runs, sending gifts, new special offers etc.
 - I was the main responsible for making changes to game's backend data (Microsoft Azure PlayFab).
 
+![bomber](https://user-images.githubusercontent.com/4212615/235474017-bf7e3998-01e2-4721-9564-4f7ff3f97fc6.png)
+
 **Slime Bubbler: Idle Adventures** \
 2022 - 2023 \
 https://play.google.com/store/apps/details?id=com.noroofgames.mumo
