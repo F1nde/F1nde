@@ -44,6 +44,10 @@ Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for An
 
 # Personal projects
 
+### **Flicker of Lumina**
+Can be played on web browser! \
+https://ldjam.com/events/ludum-dare/54/flicker-of-lumina
+
 ### **[X-ED OUT]**
 Can be played on web browser! \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
