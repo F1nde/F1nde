@@ -1,3 +1,8 @@
+### Welcome traveler. I am Marko Tuominen!
+
+A Finnish software developer from Tampere who loves games and wants to use technologies to create experiences that stir up user’s emotions. A hard working individual who is not afraid to take responsibilities and who has strong basics to learn whatever skills are needed for the job with a Master of Science (Technology) degree from Tampere University of Technology. Always eager to learn new things with particular interest in game/software development, game design, user experiences, software archetypes and software testing. Five years of work experience in the mobile game industry and eleven years of programming experience with C++.
+
+![bomber](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftuominenmarko%2F)
 
 # Current projects
 
@@ -5,13 +10,12 @@
 
 # Professional Projects
 
+### **Bomber Friends**
+
 ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
 
-### **Bomber Friends**
-Worked: 2018 - 2022 \
-Company: Hyperkani Oy \
-Google Play: https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends \
-App Store: https://apps.apple.com/us/app/bomber-friends/id941617814
+Work Period: 2018 - 2022 \
+Company: Hyperkani Oy
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++), but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
 - Designing and implementing over 250 single player levels and played a major role in reworking the single player experience, resulting in improved gameplay and visuals.
@@ -29,7 +33,7 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 ![slimebubbler](https://github.com/F1nde/F1nde/assets/4212615/fcb4b959-85d7-4df1-9da4-810848cc219e)
 
 ### **Slime Bubbler: Idle Adventures**
-Worked: 2022 - 2023 \
+Work Period: 2022 - 2023 \
 Company: No-Roof Games Oy
 
 Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
@@ -42,7 +46,7 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 ![iconpuzzle](https://github.com/F1nde/F1nde/assets/4212615/ca26a88c-aac2-4116-911b-c8eda15d7ed6)
 
 ### **Icon Puzzle**
-Worked: 2023 \
+Work Period: 2023 \
 Company: No-Roof Games Oy
 
 Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game, where I designed and programmed the whole project. The idea behind the project was to take a different approach to developing No-Roof's next game by first creating a small standalone game designed around a compact expandable game feature, which, in case of promising numbers, could be expanded into a different larger game. The game was completed and released in merely two weeks, which was an achievement in itself.
