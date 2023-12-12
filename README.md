@@ -6,21 +6,6 @@ A Finnish software developer who loves games and wants to use technologies to cr
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tuominenmarko/)
 
-Professional Experience
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Test-blue?logo=cocos)
-
-
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Secondary Ventures
-
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 # Current projects
 
 ### **Under construction**
@@ -33,6 +18,9 @@ Secondary Ventures
 
 Work Period: 2018 - 2022 \
 Company: Hyperkani Oy
+
+![Cocos2d-x](https://img.shields.io/badge/cocos2d-%23000000.svg?style=for-the-badge&logo=cocos&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) \
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++), but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
 - Designing and implementing over 250 single player levels and played a major role in reworking the single player experience, resulting in improved gameplay and visuals.
@@ -53,7 +41,8 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 Work Period: 2022 - 2023 \
 Company: No-Roof Games Oy
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
 
@@ -68,7 +57,8 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 Work Period: 2023 \
 Company: No-Roof Games Oy
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game, where I designed and programmed the whole project. The idea behind the project was to take a different approach to developing No-Roof's next game by first creating a small standalone game designed around a compact expandable game feature, which, in case of promising numbers, could be expanded into a different larger game. The game was completed and released in merely two weeks, which was an achievement in itself.
 
@@ -82,6 +72,9 @@ Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for An
 ![45jiKi](https://github.com/F1nde/F1nde/assets/4212615/07d71086-7a53-45ae-a866-a9490f58f474)
 
 ### **Flicker of Lumina**
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) \
+![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) \
 
 PLAY THE GAME IN YOUR BROWSER: \
 https://nashtanir.itch.io/flicker-of-lumina
@@ -98,28 +91,49 @@ https://ldjam.com/events/ludum-dare/54/flicker-of-lumina
 
 ### **[X-ED OUT]**
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
+![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+
 PLAY THE GAME IN YOUR BROWSER! \
 https://nashtanir.itch.io/x-ed-out
 
 LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![featered_img](https://github.com/F1nde/F1nde/assets/4212615/b41598f0-f926-4cda-8110-4e10ba64aca6)
 
 ### **Kantelemania**
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
+![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+
 PLAY THE GAME IN YOUR BROWSER! \
 https://globalgamejam.org/2023/games/kantelemania-8
+
+![kantele](https://github.com/F1nde/F1nde/assets/4212615/60630b25-d9d2-4803-aa38-759bd8efa1c2)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![rDyXxs](https://github.com/F1nde/F1nde/assets/4212615/4d4c090d-9106-496a-a568-ec28a9e89e41)
 
 ### **Eggspiration Date**
+
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) \
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 ![NY3ZPm](https://github.com/F1nde/F1nde/assets/4212615/912e7409-3981-4374-af00-874062c4a1b8)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **I, Love, Robot**
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
+![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+
 PLAY THE GAME IN YOUR BROWSER! \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
 
