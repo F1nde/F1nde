@@ -1,8 +1,25 @@
+### !!**Under construction**!!
+
 ### Welcome traveler. I am Marko Tuominen!
 
-A Finnish software developer from Tampere who loves games and wants to use technologies to create experiences that stir up user’s emotions. A hard working individual who is not afraid to take responsibilities and who has strong basics to learn whatever skills are needed for the job with a Master of Science (Technology) degree from Tampere University of Technology. Always eager to learn new things with particular interest in game/software development, game design, user experiences, software archetypes and software testing. Five years of work experience in the mobile game industry and eleven years of programming experience with C++.
+A Finnish software developer who loves games and wants to use technologies to create experiences that stir up user’s emotions. A hard working individual who is not afraid to take responsibilities and who has strong basics to learn whatever skills are needed for the job with a Master of Science (Technology) degree from Tampere University of Technology. Always eager to learn new things with particular interest in game/software development, game design, user experiences, software archetypes and software testing. Five years of work experience in the mobile game industry and eleven years of programming experience with C++.
 
-![bomber](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftuominenmarko%2F)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tuominenmarko/)
+
+Professional Experience
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Test-blue?logo=cocos)
+
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Secondary Ventures
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Current projects
 
@@ -36,6 +53,8 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 Work Period: 2022 - 2023 \
 Company: No-Roof Games Oy
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
 
 ![slimebubbler2](https://github.com/F1nde/F1nde/assets/4212615/f5f86682-2fc3-469c-9b1e-9a43d87541d5)
@@ -48,6 +67,8 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 ### **Icon Puzzle**
 Work Period: 2023 \
 Company: No-Roof Games Oy
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game, where I designed and programmed the whole project. The idea behind the project was to take a different approach to developing No-Roof's next game by first creating a small standalone game designed around a compact expandable game feature, which, in case of promising numbers, could be expanded into a different larger game. The game was completed and released in merely two weeks, which was an achievement in itself.
 
