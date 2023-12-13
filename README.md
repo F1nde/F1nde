@@ -11,6 +11,22 @@ Few notes
 
 # Professional Work
 
+### **Slime Bubbler: Idle Adventures**
+
+![slimebubbler](https://github.com/F1nde/F1nde/assets/4212615/fcb4b959-85d7-4df1-9da4-810848cc219e)
+
+Work Period: 2022 - 2023 \
+Company: No-Roof Games Oy
+
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" />
+
+Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
+
+![slimebubbler2opt](https://github.com/F1nde/F1nde/assets/4212615/5a6ea9de-9153-49a1-adb0-755407e624b2)
+![slimebubbler3opt](https://github.com/F1nde/F1nde/assets/4212615/51e745de-2a85-4ef1-a312-5cfb576d2ec7)
+
 ### **Bomber Friends**
 
 ![bomber](https://user-images.githubusercontent.com/4212615/235475628-3ac32fc5-e201-454b-a6ca-c225940cb0c9.png)
@@ -35,24 +51,6 @@ Singleplayer  \
 
 Multiplayer  \
 ![bomber3opt](https://github.com/F1nde/F1nde/assets/4212615/0eb555b0-8b3f-44d8-8c5a-90251f001827)
-
----
-
-### **Slime Bubbler: Idle Adventures**
-
-![slimebubbler](https://github.com/F1nde/F1nde/assets/4212615/fcb4b959-85d7-4df1-9da4-810848cc219e)
-
-Work Period: 2022 - 2023 \
-Company: No-Roof Games Oy
-
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" />
-
-Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
-
-![slimebubbler2opt](https://github.com/F1nde/F1nde/assets/4212615/5a6ea9de-9153-49a1-adb0-755407e624b2)
-![slimebubbler3opt](https://github.com/F1nde/F1nde/assets/4212615/51e745de-2a85-4ef1-a312-5cfb576d2ec7)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -138,27 +136,6 @@ LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 ![NY3ZPm](https://github.com/F1nde/F1nde/assets/4212615/912e7409-3981-4374-af00-874062c4a1b8)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### **I, Love, Robot**
-
-![iloverobot](https://github.com/F1nde/F1nde/assets/4212615/7a9aac3e-41d2-4303-8b4e-e5cca64283bb)
-
-Work Period: 2018 \
-Competition: LudumDare 41
-
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
-
-PLAY THE GAME IN YOUR BROWSER! \
-https://ldjam.com/events/ludum-dare/41/i-love-robot](https://nashtanir.itch.io/i-love-robot
-
-LudumDare Entry: \
-https://ldjam.com/events/ludum-dare/41/i-love-robot
-
-![iloverobot](https://github.com/F1nde/F1nde/assets/4212615/bac41df6-01af-4bbd-9ca7-56586b7adbfc)
 
 <!--
 **F1nde/F1nde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
