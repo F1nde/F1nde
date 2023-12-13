@@ -1,10 +1,13 @@
-# Game Dev Showcase: Marko Tuominen
+# GameDev Showcase: Marko Tuominen
 
 A Finnish software developer who loves games and wants to use technologies to create experiences that stir up user’s emotions. A hard working individual who is not afraid to take responsibilities and who has strong basics to learn whatever skills are needed for the job with a Master of Science (Technology) degree from Tampere University of Technology. Always eager to learn new things with particular interest in game/software development, game design, user experiences, software archetypes and software testing. Five years of work experience in the mobile game industry and eleven years of programming experience with C++.
 
 I am currently working on my game project, which I hope to release in 2024. The game's visuals are still under construction, so I don't want to make a post about it just yet. Stay tuned!
 
-NOTE: I use Bitbucket for my personal projects so that is why contributions activity is empty. This page is more of collace of my work history and own projects. Pinned reposities are some older projects from university times.
+Few notes
+- I use Bitbucket for my personal projects so that is why contributions activity is empty. This page is more of collace of my work history and own projects.
+- Gif quality is intentionally bad so page don't load forever.
+- Pinned reposities are some older projects from university times.
 
 # Professional Work
 
@@ -27,8 +30,11 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 - Back in 2019, I was one of the driving forces for adding and implementing seasonal structure to the game before it was a popular thing to add to mobile games, majorly enhancing player engagement, game revenue and retention.
 - Additionally, worked on countless new features including clans, in game fashion shows, daily fortune wheels, single player dungeon runs, sending gifts, new special offers, login rewards, etc.
 
-![bomber4](https://github.com/F1nde/F1nde/assets/4212615/a4b5fbc2-836f-4195-88bd-af67c09cfb69)
-![bomber5](https://github.com/F1nde/F1nde/assets/4212615/bdde4e87-8e5a-45f5-b575-8be541456d4b)
+Singleplayer  \
+![bombwe2opt](https://github.com/F1nde/F1nde/assets/4212615/5f34e59f-b868-41ae-b148-2165747c1dc8)
+
+Multiplayer  \
+![bomber3opt](https://github.com/F1nde/F1nde/assets/4212615/0eb555b0-8b3f-44d8-8c5a-90251f001827)
 
 ---
 
@@ -45,8 +51,9 @@ Company: No-Roof Games Oy
 
 Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
 
-![slimebubbler2](https://github.com/F1nde/F1nde/assets/4212615/f5f86682-2fc3-469c-9b1e-9a43d87541d5)
-![slimebubbler3](https://github.com/F1nde/F1nde/assets/4212615/1140f67f-7363-4b22-961e-42bdf39064b4)
+![slimebubbler2opt](https://github.com/F1nde/F1nde/assets/4212615/5a6ea9de-9153-49a1-adb0-755407e624b2)
+![slimebubbler3opt](https://github.com/F1nde/F1nde/assets/4212615/51e745de-2a85-4ef1-a312-5cfb576d2ec7)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,8 +92,7 @@ https://nashtanir.itch.io/flicker-of-lumina
 LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/54/flicker-of-lumina
 
-![fJzP32](https://github.com/F1nde/F1nde/assets/4212615/22f917f4-d5fa-4805-9537-76ad1e21bc0c)
-![I+8daQ](https://github.com/F1nde/F1nde/assets/4212615/104dd9a2-bc77-436c-a493-4f2b093b8cc2)
+![lumina3](https://github.com/F1nde/F1nde/assets/4212615/65c39c61-89f0-45ee-93af-10221c37d229)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,6 +108,9 @@ Competition: Global Game Jam 2023
 <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
 
 PLAY THE GAME IN YOUR BROWSER! \
+https://nashtanir.itch.io/kantelemania
+
+GlobalGameJam Entry: \
 https://globalgamejam.org/2023/games/kantelemania-8
 
 ![kantele](https://github.com/F1nde/F1nde/assets/4212615/ec822c5b-a18d-4096-bfc1-9e5f9207f36e)
