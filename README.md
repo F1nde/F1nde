@@ -57,22 +57,6 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Icon Puzzle**
-
-![iconpuzzle](https://github.com/F1nde/F1nde/assets/4212615/ca26a88c-aac2-4116-911b-c8eda15d7ed6)
-
-Work Period: 2023 \
-Company: No-Roof Games Oy
-
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" />
-
-Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game, where I designed and programmed the whole project. The idea behind the project was to take a different approach to developing No-Roof's next game by first creating a small standalone game designed around a compact expandable game feature, which, in case of promising numbers, could be expanded into a different larger game. The game was completed and released in merely two weeks, which was an achievement in itself.
-
-![iconpuzzle2](https://github.com/F1nde/F1nde/assets/4212615/a56d1922-545a-4633-9b66-6af191bb052f)
-![iconpuzzle3](https://github.com/F1nde/F1nde/assets/4212615/f23c2b57-5078-446d-95f3-fb6bf9df776a)
-
 # Game Jam Projects
 
 ### **Flicker of Lumina**
