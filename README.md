@@ -4,21 +4,9 @@ A Finnish software developer who loves games and wants to use technologies to cr
 
 I am currently working on my game project, which I hope to release in 2024. The game's visuals are still under construction, so I don't want to make a post about it just yet. Stay tuned!
 
-NOTE: I use Bitbucket for my personal projects so that is why contributions activity is empty. This page is more of collace of my projects. Pinned reposities are some older projects from university times.
+NOTE: I use Bitbucket for my personal projects so that is why contributions activity is empty. This page is more of collace of my work history and own projects. Pinned reposities are some older projects from university times.
 
-**Game Engines**
-
-<img src="https://img.shields.io/badge/-Cocos2Dx-55C2E1?logo=cocos&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Unreal-000000?logo=Unreal-Engine&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=Godot-Engine&logoColor=black" height="35"/>
-
-**Programming Languages**
-
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" height="35"/>
-
-**Platforms**
-
-<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
-
-## Professional Projects
+# Professional Work
 
 ### **Bomber Friends**
 
@@ -28,7 +16,7 @@ Work Period: 2018 - 2022 \
 Company: Hyperkani Oy
 
 <img src="https://img.shields.io/badge/-Cocos2Dx-55C2E1?logo=cocos&logoColor=black" height="35" /> \
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" height="35" /> \
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35" />
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++), but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
@@ -42,11 +30,12 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 ![bomber4](https://github.com/F1nde/F1nde/assets/4212615/a4b5fbc2-836f-4195-88bd-af67c09cfb69)
 ![bomber5](https://github.com/F1nde/F1nde/assets/4212615/bdde4e87-8e5a-45f5-b575-8be541456d4b)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
+### **Slime Bubbler: Idle Adventures**
 
 ![slimebubbler](https://github.com/F1nde/F1nde/assets/4212615/fcb4b959-85d7-4df1-9da4-810848cc219e)
 
-### **Slime Bubbler: Idle Adventures**
 Work Period: 2022 - 2023 \
 Company: No-Roof Games Oy
 
@@ -61,9 +50,10 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### **Icon Puzzle**
+
 ![iconpuzzle](https://github.com/F1nde/F1nde/assets/4212615/ca26a88c-aac2-4116-911b-c8eda15d7ed6)
 
-### **Icon Puzzle**
 Work Period: 2023 \
 Company: No-Roof Games Oy
 
@@ -76,13 +66,14 @@ Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for An
 ![iconpuzzle2](https://github.com/F1nde/F1nde/assets/4212615/a56d1922-545a-4633-9b66-6af191bb052f)
 ![iconpuzzle3](https://github.com/F1nde/F1nde/assets/4212615/f23c2b57-5078-446d-95f3-fb6bf9df776a)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Old personal projects
-
-![45jiKi](https://github.com/F1nde/F1nde/assets/4212615/07d71086-7a53-45ae-a866-a9490f58f474)
+# Game Jam Projects
 
 ### **Flicker of Lumina**
+
+![lumina](https://github.com/F1nde/F1nde/assets/4212615/6e2e28c2-d2ce-4783-9246-c7a250b44832)
+
+Work Period: 2023 \
+Competition: LudumDare 54
 
 <img src="https://img.shields.io/badge/-Godot-478CBF?logo=Godot-Engine&logoColor=black" height="35"/> \
 <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
@@ -99,9 +90,31 @@ https://ldjam.com/events/ludum-dare/54/flicker-of-lumina
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![503ca](https://github.com/F1nde/F1nde/assets/4212615/508f9d25-8be6-4fb7-add7-40c4d7cb8d30)
+### **Kantelemania**
+
+![kantelemania](https://github.com/F1nde/F1nde/assets/4212615/b1480be8-da3d-49f7-b099-c7bc4ab68d4a)
+
+Work Period: 2023 \
+Competition: Global Game Jam 2023
+
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
+
+PLAY THE GAME IN YOUR BROWSER! \
+https://globalgamejam.org/2023/games/kantelemania-8
+
+![kantele](https://github.com/F1nde/F1nde/assets/4212615/60630b25-d9d2-4803-aa38-759bd8efa1c2)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### **[X-ED OUT]**
+
+![xedout](https://github.com/F1nde/F1nde/assets/4212615/b589259f-6c28-4449-90b5-65ed34c7aeb5)
+
+Work Period: 2022 \
+Competition: LudumDare 51
 
 <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
 <img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
@@ -115,24 +128,12 @@ https://ldjam.com/events/ludum-dare/51/x-ed-out
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![featered_img](https://github.com/F1nde/F1nde/assets/4212615/b41598f0-f926-4cda-8110-4e10ba64aca6)
-
-### **Kantelemania**
-
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
-<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
-
-PLAY THE GAME IN YOUR BROWSER! \
-https://globalgamejam.org/2023/games/kantelemania-8
-
-![kantele](https://github.com/F1nde/F1nde/assets/4212615/60630b25-d9d2-4803-aa38-759bd8efa1c2)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![rDyXxs](https://github.com/F1nde/F1nde/assets/4212615/4d4c090d-9106-496a-a568-ec28a9e89e41)
-
 ### **Eggspiration Date**
+
+![eggspirationdate](https://github.com/F1nde/F1nde/assets/4212615/6f08ad9b-2710-4cf3-a12d-373a07fe517e)
+
+Work Period: 2022 \
+Competition: LudumDare 51
 
 <img src="https://img.shields.io/badge/-Unreal-000000?logo=Unreal-Engine&logoColor=white" height="35"/> \
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35"/> \
@@ -146,11 +147,19 @@ https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 ### **I, Love, Robot**
 
+![iloverobot](https://github.com/F1nde/F1nde/assets/4212615/7a9aac3e-41d2-4303-8b4e-e5cca64283bb)
+
+Work Period: 2018 \
+Competition: LudumDare 41
+
 <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
 <img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
 <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
 
 PLAY THE GAME IN YOUR BROWSER! \
+https://ldjam.com/events/ludum-dare/41/i-love-robot](https://nashtanir.itch.io/i-love-robot
+
+LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
 
 <!--
