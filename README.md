@@ -104,14 +104,14 @@ Competition: Global Game Jam 2023
 PLAY THE GAME IN YOUR BROWSER! \
 https://globalgamejam.org/2023/games/kantelemania-8
 
-![kantele](https://github.com/F1nde/F1nde/assets/4212615/60630b25-d9d2-4803-aa38-759bd8efa1c2)
+![kantele](https://github.com/F1nde/F1nde/assets/4212615/ec822c5b-a18d-4096-bfc1-9e5f9207f36e)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### **[X-ED OUT]**
 
-![xedout](https://github.com/F1nde/F1nde/assets/4212615/b589259f-6c28-4449-90b5-65ed34c7aeb5)
+![xedout](https://github.com/F1nde/F1nde/assets/4212615/c4953904-0af6-419b-91ab-ccd6a08359c0)
 
 Work Period: 2022 \
 Competition: LudumDare 51
@@ -126,6 +126,8 @@ https://nashtanir.itch.io/x-ed-out
 LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/51/x-ed-out
 
+![x4](https://github.com/F1nde/F1nde/assets/4212615/57ab7e7d-87bb-43e5-9544-4111592a61ef)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Eggspiration Date**
@@ -133,12 +135,13 @@ https://ldjam.com/events/ludum-dare/51/x-ed-out
 ![eggspirationdate](https://github.com/F1nde/F1nde/assets/4212615/6f08ad9b-2710-4cf3-a12d-373a07fe517e)
 
 Work Period: 2022 \
-Competition: LudumDare 51
+Competition: LudumDare 50
 
 <img src="https://img.shields.io/badge/-Unreal-000000?logo=Unreal-Engine&logoColor=white" height="35"/> \
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35"/> \
 <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
 
+LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 ![NY3ZPm](https://github.com/F1nde/F1nde/assets/4212615/912e7409-3981-4374-af00-874062c4a1b8)
@@ -161,6 +164,8 @@ https://ldjam.com/events/ludum-dare/41/i-love-robot](https://nashtanir.itch.io/i
 
 LudumDare Entry: \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
+
+![iloverobot](https://github.com/F1nde/F1nde/assets/4212615/bac41df6-01af-4bbd-9ca7-56586b7adbfc)
 
 <!--
 **F1nde/F1nde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
