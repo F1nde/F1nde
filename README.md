@@ -1,16 +1,24 @@
-### !!**Under construction**!!
-
-### Welcome traveler. I am Marko Tuominen!
+# Game Dev Showcase: Marko Tuominen
 
 A Finnish software developer who loves games and wants to use technologies to create experiences that stir up user’s emotions. A hard working individual who is not afraid to take responsibilities and who has strong basics to learn whatever skills are needed for the job with a Master of Science (Technology) degree from Tampere University of Technology. Always eager to learn new things with particular interest in game/software development, game design, user experiences, software archetypes and software testing. Five years of work experience in the mobile game industry and eleven years of programming experience with C++.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tuominenmarko/)
+I am currently working on my game project, which I hope to release in 2024. The game's visuals are still under construction, so I don't want to make a post about it just yet. Stay tuned!
 
-# Current projects
+NOTE: I use Bitbucket for my personal projects so that is why contributions activity is empty. This page is more of collace of my projects. Pinned reposities are some older projects from university times.
 
-### **Under construction**
+**Game Engines**
 
-# Professional Projects
+<img src="https://img.shields.io/badge/-Cocos2Dx-55C2E1?logo=cocos&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Unreal-000000?logo=Unreal-Engine&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=Godot-Engine&logoColor=black" height="35"/>
+
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" height="35"/>
+
+**Platforms**
+
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
+
+## Professional Projects
 
 ### **Bomber Friends**
 
@@ -19,8 +27,9 @@ A Finnish software developer who loves games and wants to use technologies to cr
 Work Period: 2018 - 2022 \
 Company: Hyperkani Oy
 
-![Cocos2d-x](https://img.shields.io/badge/cocos2d-%23000000.svg?style=for-the-badge&logo=cocos&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) \
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<img src="https://img.shields.io/badge/-Cocos2Dx-55C2E1?logo=cocos&logoColor=black" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35" />
 
 Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is available for both Android and iOS platforms. I started my work on the game as a client programmer (cocos2d, C++), but in time I extended my work to include game design, quality assurance, backend management (Java-/Typescript), and game server programming (C#), ultimately becoming the main programmer of the game. I had the privilege of contributing to numerous updates and features that were added to the game, which included:
 - Designing and implementing over 250 single player levels and played a major role in reworking the single player experience, resulting in improved gameplay and visuals.
@@ -41,8 +50,9 @@ Bomber Friends is a 2D Bomberman-style mobile game released in 2014 that is avai
 Work Period: 2022 - 2023 \
 Company: No-Roof Games Oy
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" />
 
 Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game and was involved in creating nearly everything featured in the game, in addition to numerous technologies that could be utilized in future projects. My primary focus during the project was on the development side, and my responsibility was to bring the company's vision to life to the best of my ability. Sadly, due to time pressure to release the game, some of its features weren't fully fleshed out, and some were left out entirely. The game marked No Roof Game's first release, and although it didn't achieve commercial success (like most games don’t), it remains a significant milestone for the company. Personally, the project was an invaluable learning experience.
 
@@ -57,8 +67,9 @@ Slime Bubbler: Idle Adventures is a casual adventure 3D auto-shooter mobile game
 Work Period: 2023 \
 Company: No-Roof Games Oy
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white" height="35" />
 
 Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for Android. I worked as the lead programmer on the project throughout the entire development cycle of the game, where I designed and programmed the whole project. The idea behind the project was to take a different approach to developing No-Roof's next game by first creating a small standalone game designed around a compact expandable game feature, which, in case of promising numbers, could be expanded into a different larger game. The game was completed and released in merely two weeks, which was an achievement in itself.
 
@@ -73,8 +84,9 @@ Icon Puzzle is a casual icon guessing puzzle mobile game released in 2023 for An
 
 ### **Flicker of Lumina**
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) \
-![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) \
+<img src="https://img.shields.io/badge/-Godot-478CBF?logo=Godot-Engine&logoColor=black" height="35"/> \
+<img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
+
 
 PLAY THE GAME IN YOUR BROWSER: \
 https://nashtanir.itch.io/flicker-of-lumina
@@ -91,8 +103,9 @@ https://ldjam.com/events/ludum-dare/54/flicker-of-lumina
 
 ### **[X-ED OUT]**
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
-![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
 
 PLAY THE GAME IN YOUR BROWSER! \
 https://nashtanir.itch.io/x-ed-out
@@ -106,8 +119,9 @@ https://ldjam.com/events/ludum-dare/51/x-ed-out
 
 ### **Kantelemania**
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
-![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
 
 PLAY THE GAME IN YOUR BROWSER! \
 https://globalgamejam.org/2023/games/kantelemania-8
@@ -120,8 +134,9 @@ https://globalgamejam.org/2023/games/kantelemania-8
 
 ### **Eggspiration Date**
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) \
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<img src="https://img.shields.io/badge/-Unreal-000000?logo=Unreal-Engine&logoColor=white" height="35"/> \
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="35"/> \
+<img src="https://img.shields.io/badge/-iOS-000000?logo=iOS&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white" height="35"/>
 
 https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
@@ -131,13 +146,12 @@ https://ldjam.com/events/ludum-dare/50/eggspiration-date
 
 ### **I, Love, Robot**
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) \
-![webgl](https://img.shields.io/badge/webgl-0078D6?style=for-the-badge&logo=webgl&logoColor=white)
+<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white" height="35" /> \
+<img src="https://img.shields.io/badge/-WebGL-990000?logo=WebGL&logoColor=white" height="35"/>
 
 PLAY THE GAME IN YOUR BROWSER! \
 https://ldjam.com/events/ludum-dare/41/i-love-robot
-
-### Pinned reposities are some older projects.
 
 <!--
 **F1nde/F1nde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
